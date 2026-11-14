@@ -2,6 +2,8 @@
 
 Daily count of open federal contract opportunities on SAM.gov for each US state and territory, with small-business set-asides, bids closing within 7 days, and contract awards over the last 12 months. One row per state per day, history from 2026-10-31.
 
+Need this data in your own tool or automated? [pushbuild.com/apis](https://pushbuild.com/apis/?utm_source=github&utm_medium=readme&utm_campaign=us-federal-open-bids)
+
 **File:** [`open_bids_by_state.csv`](open_bids_by_state.csv), updated daily.
 
 | column | meaning |
